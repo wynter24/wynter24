@@ -6,16 +6,17 @@
 ### 안녕하세요 😄
 #### 주로 React를 사용하며 Next.js를 공부하고 있습니다.
 
-<br><br>
+<br />
 
-### 📫 Skills
-<br>
+### 🛠️ Skills
+<br />
 <div class="Skills">
 <a target="_blank"><img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
 </div>
 
 
