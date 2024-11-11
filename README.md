@@ -6,7 +6,13 @@
 ### 안녕하세요 😄
 #### 주로 React를 사용하며 Next.js를 공부하고 있습니다.
 
-<br />
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/wynter24"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### 🛠️ Skills
 <br />
