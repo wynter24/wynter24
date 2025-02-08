@@ -55,4 +55,5 @@
         <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwynter24%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    
+<!-- [![Solved.ac wynter24](http://mazassumnida.wtf/api/generate_badge?boj=wynter24)](https://solved.ac/wynter24)
+ <img src="http://mazandi.herokuapp.com/api?handle=wynter24&theme=warm"/> --!>
