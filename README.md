@@ -42,7 +42,7 @@
         </div> 
     </div> <br>
     <div align= "left">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔗 Contact </h2> <br> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔗 Contact </h2>  
         <div align="left">
           <a href="m.wynter24.k@gmail.com" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&style=flat-square&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
