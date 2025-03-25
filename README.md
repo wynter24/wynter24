@@ -3,7 +3,8 @@
     </div>
     <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🚀 인터랙티브하고 확장 가능한 웹 애플리케이션을 만드는 것을 좋아합니다. <br/></li>🛠️ 코드 품질 개선, 테스트 강화, 안정적인 배포를 위해 지속적으로 고민하고 있습니다. <br/></li>📚 현재 bookco를 개선하며, 오류 해결, 코드 구조 개선, 테스트 코드 작성을 통해 더 나은 서비스를 만들고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🚀 인터랙티브하고 확장 가능한 웹 애플리케이션을 만드는 것을 좋아합니다. <br/></li>🛠️ 코드 품질 개선, 테스트 강화, 안정적인 배포를 위해 지속적으로 고민하고 있습니다. 
+<!--         <br/></li>📚 현재 bookco를 개선하며, 오류 해결, 코드 구조 개선, 테스트 코드 작성을 통해 더 나은 서비스를 만들고 있습니다. </div>  -->
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
